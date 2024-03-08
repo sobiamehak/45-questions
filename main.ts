@@ -1,1 +1,2 @@
-console.log("Charles-Guillaume Étienne said,\"If you want something done right, do it yourself\"");
+let  Name: string = "Hello world";
+console.log (Name);
